@@ -19,6 +19,9 @@ Use split() method to split the file content into words.
 ##### Step 6:Run the program to determine the number of words in the file created.
 ## PROGRAM:
 ```
+Developed by: subishesh
+Reg by:23003621
+
 Python program for getting the word count from the contents of a file using command line arguments.
 import sys
 fp= open(sys.argv[1])
